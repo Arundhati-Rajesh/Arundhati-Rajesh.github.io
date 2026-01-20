@@ -7,49 +7,54 @@ title: About Me
 
 ## Introduction
 
-Hello! I'm **[Your Name]**, a [your year, e.g., third-year] student studying [Your Program] at [Your Institution].
+Hello! I'm **Arundhati Rajesh**, a third-year student studying **BA (Hons) Business Information Systems** at **Dublin Business School (DBS), Ireland**.
 
 ## Background
 
-Write a brief background about yourself here. You might include:
-- Your academic background
-- What you're studying
-- What interests you about data and analytics
-- Your career goals
+I am currently pursuing my undergraduate degree in Business Information Systems with a strong focus on combining business knowledge with technology and data-driven solutions.
+
+My interests lie in data analytics, business intelligence, database systems, and programming for data analysis. I enjoy working with data to uncover insights and building dashboards that help organizations make informed decisions.
+
+My goal is to build a career in Business Intelligence or Data Analytics where I can apply analytical, technical, and problem-solving skills in real-world business environments.
 
 ## Skills
 
 **Technical Skills:**
-- PowerBI
-- Excel
-- Data Analysis
-- [Add other skills]
+- Power BI  
+- Excel  
+- Data Analysis  
+- Database Design  
+- SQL  
+- Python  
 
 **Tools & Technologies:**
-- Microsoft PowerBI
-- Excel
-- SQL (if applicable)
-- Python (if applicable)
-- [Add others]
+- Microsoft Power BI  
+- Excel  
+- MS SQL Server  
+- Python (written and executed using Notepad++) 
+- ERD Modelling  
 
 ## Education
 
-**[Your Institution Name]**  
-[Degree/Program Name]  
-[Expected Graduation Year or Current Year]
+**Dublin Business School**  
+BA (Hons) Business Information Systems  
+**Expected Graduation: May 2026**  
+Ireland  
 
 ## Interests
 
-- Data visualization
-- Business intelligence
-- [Add your specific interests]
+- Data visualization  
+- Business intelligence  
+- Analytics & reporting  
+- Information systems  
+- Data-driven problem solving  
 
 ## Contact
 
 Feel free to connect with me:
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- **Email:** arundhatirajesh4125@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/arundhati-rajesh-6757a9339  
+- **GitHub:** https://github.com/Arundhati-Rajesh/Arundhati-Rajesh.github.io  
 
 ---
 
